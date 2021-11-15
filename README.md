@@ -5,6 +5,11 @@
  - Предпочитаемая должность: Junior Full-Stack Developer
  - Опыт работы: с 2018 по настоящее время
 
+## Контакты для связи
+ - Номер телефона: 380666307326
+ - Telegram: https://t.me/velman_04
+ - Instagram: https://instagram.com/velman_04
+
 ## Профессиональные и другие навыки
  - PHP 5.6-7.x (ООП), REST API (Опыт ~3 года) Основы*
  - MySQL, MariaDB, Memcached (Опыт: ~3 года, ~2 года, ~2 года) - База*
