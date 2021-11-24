@@ -9,6 +9,7 @@
  - Номер телефона: 380666307326
  - Telegram: https://t.me/velman_04
  - Instagram: https://instagram.com/velman_04
+ - Эл. почта: vlad.govoryshko@gmail.com
 
 ## Профессиональные и другие навыки
  - PHP 5.6-7.x (ООП), REST API (Опыт ~3 года) Основы*
