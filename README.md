@@ -15,7 +15,7 @@
 **Опыт работы**
 
      - Компания: 4limes
-     - Должность:
+     - Должность: Fullstack
      - Разработчик PHP/Laravel/Bitrix
      - Период работы: Ноябрь 2021 – настоящее время
 
@@ -36,7 +36,7 @@
  - JS / JQuery / Bootstrap
  - Tailwind
  - Vuejs, Inertia.js
- - Git, Composer, Webpack
+ - Git, Composer, Webpack, Vitejs
  - Laravel
  - Nginx / Apache
  - WebSocket
